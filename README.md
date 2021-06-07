@@ -4,7 +4,7 @@ This application's main goal was to test cross platform support of golang using 
 
 # What is LegacyBest ?
 
-Well in short it's a wrapper for dosbox with few nice features. The main goal as you know was to write cross platform application using Golang. The second goal was to connect it to the external API, it can fetch game lists with images/description and categories without any local data. Then you can install/remove games in the way you like. You can also search for game titles. The API of this application will also be shared on github soon.
+Well in short it's a wrapper for dosbox with few nice features. The main goal as you know was to write cross platform application using Golang. The second goal was to connect it to the [external API](https://github.com/e1z0/legacybest_api), it can fetch game lists with images/description and categories without any local data. Then you can install/remove games in the way you like. You can also search for game titles.
 
 # How that crossplatform compatibility is made ?
 
