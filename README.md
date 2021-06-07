@@ -26,3 +26,10 @@ I'm using webview component, which displays bundled in application html, turns a
 ![](/pics/Screenshot_5.png)
 ![](/pics/Screenshot_6.png)
 ![](/pics/Screenshot_7.png)
+
+# Used technologies
+
+* [GoLang](https://golang.org)
+* [Packr2](https://github.com/gobuffalo/packr)
+* [WebView](http://github.com/webview/webview)
+* [DosBox](https://www.dosbox.com)
