@@ -18,4 +18,11 @@ I'm using webview component, which displays bundled in application html, turns a
 
 # Screenshots
 
-[](/pics/Screenshot2020-09-03at10.01.43.png)
+![](/pics/Screenshot2020-09-03at10.01.43.png)
+![](/pics/Screenshot2020-09-03at10.02.05.png)
+![](/pics/Screenshot2020-09-03at10.02.40.png)
+![](/pics/Screenshot2020-09-03at10.04.32.png)
+![](/pics/Screenshot2020-09-03at10.05.10.png)
+![](/pics/Screenshot_5.png)
+![](/pics/Screenshot_6.png)
+![](/pics/Screenshot_7.png)
