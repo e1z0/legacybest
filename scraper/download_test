@@ -1,0 +1,7 @@
+#!/bin/sh
+
+curl -b abandonware.txt \
+ --user-agent "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:78.0) Gecko/20100101 Firefox/78.0" \
+ -H "Host: www.myabandonware.com" \
+ -H "Referer: https://www.myabandonware.com/game/dungeon-master-n0" \
+ https://www.myabandonware.com/download/1e6-dungeon-master --out failas.zip

@@ -1,0 +1,12 @@
+.DS_Store
+scraper/data/*
+scraper/images/*
+scraper/cache/*
+data/*
+data/
+scraper/alldata.zip
+app.log
+builds/*
+*.zip
+*.exe
+Release/Mac/legacybest.app/Contents/MacOS/data/*

@@ -1,0 +1,1 @@
+Make abillity in settings turn on/off auto close dosbox on exit

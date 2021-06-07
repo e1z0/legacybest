@@ -1,0 +1,22 @@
+image: golang:latest
+
+cache:
+  paths:
+    - /apt-cache
+    - /go/src/github.com
+    - /go/src/golang.org
+    - /go/src/google.golang.org
+    - /go/src/gopkg.in
+
+stages:
+  - build
+
+before_script:
+  - ./ci/docker_install.sh
+  - make deps
+
+build:
+  stage: build
+  script:
+    - make clean release
+    - ./ci/deploy.sh
