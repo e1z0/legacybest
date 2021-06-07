@@ -9,3 +9,13 @@ Well in short it's a wrapper for dosbox with few nice features. The main goal as
 # How that crossplatform compatibility is made ?
 
 I'm using webview component, which displays bundled in application html, turns application into small webserver that serves html and listens for the events, it also launches a client to browse that content. It works on every big platform as native application, just uses web technologies, it's lightweight and does not need a lot of resources. 
+
+# What host platforms does it support ?
+
+* Apple Macintosh (Intel x64)
+* Microsoft Windows (Intel x86/x64)
+* Linus Torvalds Linux (Intel x86/x64)
+
+# Screenshots
+
+[](/pics/Screenshot2020-09-03at10.01.43.png)
